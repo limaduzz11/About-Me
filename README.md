@@ -1,14 +1,15 @@
-👋 Hi, I'm @limaduzz11.
+👋 Hello, I'm @limaduzz.dev
+👀 About Me
+I am a Developer Analyst with consolidated experience in enterprise resource planning (ERP) systems. My work focuses on optimizing business processes, developing customized solutions, and ensuring the performance and stability of complex IT environments.
 
-👀 I'm interested in Back End Technologies
-🌱 I am currently learning C,C# and C++
-📫 Please contact me via Linkedin : 
+🚀 My Specialty
+I have extensive experience with TOTVS Protheus ERP, working in maintenance and development. My skills include:
 
-www.linkedin.com/in/eduardo-de-lima-paranhos-910930263
+Languages: ADVPL, SQL, Python.
 
-I am a student committed to enhancing my skills in the back end and front end technology areas,
-but with a primary focus on back end. I am excited to explore the different technologies and, 
-concepts surrounding web application development and the creation of robust, scalable systems. 
-My goal is to gain a solid knowledge of programming languages, frameworks and databases related to backend development. 
-Furthermore, I am open to collaborating on projects that allow me to apply and expand my skills in this area. 
-If you want to contact me, you can find me at   www.linkedin.com/in/eduardo-de-lima-paranhos-910930263].
+Integrations: API development and consumption (REST and SOAP).
+
+Modules: Extensive experience in Billing, Financial, Inventory, Costs, Accounting, and Purchasing modules.
+
+🌱 What I'm Learning
+I strive for constant improvement and am currently deepening my knowledge of JavaScript, Python, and C# to expand my skills in systems development.
